@@ -147,8 +147,7 @@ display: inline-block;
 margin-left: 20px;
 margin-top: 10px;
  }
- .container.form-group input
- {
+ .container.form-group input{
      width: 920px;
      padding: 20px;
      border: #ddd 1px solid;
